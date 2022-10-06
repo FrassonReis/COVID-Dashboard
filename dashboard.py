@@ -155,7 +155,7 @@ app.layout = dbc.Container(
                             style={'height': '100vh', 'margin-right': '10px'})],
                     ),
                 ], md=7),
-            ], no_gutters=True)
+            ], class_name="g-0")
     ], fluid=True, 
 )
 
